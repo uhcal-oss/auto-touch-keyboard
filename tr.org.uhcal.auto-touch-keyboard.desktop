@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Ekran Klavyesi (Aç/Kapat)
+Name[tr]=Ekran Klavyesi (Aç/Kapat)
+Comment=Dokunmatik Ekran Klavyesini Aç veya Kapat
+Exec=auto-touch-keyboard toggle
+Icon=input-keyboard-virtual
+Terminal=false
+Type=Application
+Categories=Utility;Accessibility;
+Keywords=keyboard;osk;virtual;touch;klavye;sanal;
